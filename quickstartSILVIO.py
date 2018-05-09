@@ -6,9 +6,9 @@ from selenium.common.exceptions import NoSuchElementException
 
 from instapy import InstaPy
 
-insta_username = 'silviobaratto'
+insta_username = ''
 #insta_password = raw_input('inserisci la tua password: '
-insta_password = 'lotec1997'
+insta_password = ''
 
 
 session = InstaPy(username=insta_username,
